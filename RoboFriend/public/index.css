@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Arial';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1{
+  font-family: 'Helvetica', sans-serif;
+}
+
+code {
+  font-family: 'Arial', sans-serif;  
+}
