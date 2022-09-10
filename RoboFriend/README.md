@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Robo Friends - Google Chrome 2022-09-10 20-18-28.mp4
 
 ## Available Scripts
 
